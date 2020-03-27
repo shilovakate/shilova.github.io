@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "портфолио",
+    "name": "staff.manager",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -53,7 +53,7 @@
     "uniqCompNum": 17,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/web-1012467-960-720-128x47.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
